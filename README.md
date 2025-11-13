@@ -35,7 +35,7 @@ More Details in Blog: <a href=https://developer.nvidia.com/blog/run-hugging-face
 
 <details closed>
   <summary><b>Training Performance on GPU Tuning Guide</b></summary>
-      NeMo Framework has published <a href=https://docs.nvidia.com/nemo-framework/user-guide/latest/performance/performance-guide.html>a comprehensive guide for performance tuning to achieve optimal throughput<a>! (2025-05-19)
+      NeMo Framework has published <a href=https://docs.nvidia.com/nemo-framework/user-guide/latest/performance/performance-summary.html>a comprehensive guide for performance tuning to achieve optimal throughput<a>! (2025-05-19)
 </details>
 
 <details closed>
